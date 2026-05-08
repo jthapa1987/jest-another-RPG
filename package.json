@@ -1,0 +1,22 @@
+{
+  "name": "10.5-another-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "inquirer": "^13.4.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
