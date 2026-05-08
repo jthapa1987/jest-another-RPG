@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@unrs/resolver-binding-win32-x64-msvc": "^1.11.1",
+    "jest": "^29.7.0"
+  }
+}
